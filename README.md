@@ -4,7 +4,7 @@
 
 ---
 
-![Captura de Android Studio](![Captura Android Studio - Proyecto](https://github.com/user-attachments/assets/c71f77b5-93aa-451d-aafd-225cbedbd4bb)
+(![Captura Android Studio - Proyecto](https://github.com/user-attachments/assets/c71f77b5-93aa-451d-aafd-225cbedbd4bb)
 
 ## 🌟 Características Principales del Diseño
 
