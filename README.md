@@ -4,31 +4,28 @@
 
 ---
 
+![Captura de Android Studio](![Captura Android Studio - Proyecto](https://github.com/user-attachments/assets/c71f77b5-93aa-451d-aafd-225cbedbd4bb)
+
 ## 🌟 Características Principales del Diseño
 
 ### 1. **Claridad y Simplicidad en el Diseño** 🧑‍💻
 El diseño de la aplicación se basa en el principio de **simplicidad visual**, evitando elementos innecesarios que puedan distraer al usuario. Las pantallas están organizadas de forma lógica, de modo que los usuarios puedan navegar rápidamente y realizar tareas sin complicaciones.
 
-![Pantalla principal](https://via.placeholder.com/600x300?text=Pantalla+Principal)  
-*Imagen de la pantalla principal de la aplicación.*
+
 
 ### 2. **Uso Adecuado de Colores y Tipografía** 🌈
 El **uso de colores** en la interfaz ha sido cuidadosamente seleccionado para garantizar un buen contraste y facilitar la lectura. Los colores son suaves y agradables a la vista, lo que mejora la experiencia de navegación. La tipografía se eligió para ser legible, clara y coherente, con una jerarquía visual bien definida para ayudar al usuario a entender rápidamente la estructura de la interfaz.
 
-![Uso de colores](https://via.placeholder.com/600x300?text=Colores+de+Interfaz)  
-*Ejemplo de la paleta de colores utilizada.*
 
 ### 3. **Navegación Fluida Entre Pantallas** 🔄
 La **navegación** entre las distintas pantallas de la aplicación es **intuitiva** y **sin interrupciones**. Cada transición entre pantallas está pensada para que el usuario no se pierda ni se sienta desorientado. Los botones y enlaces están claramente identificados, y se utilizan **transiciones suaves** para mejorar la experiencia de uso.
 
-![Pantallas de navegación](https://via.placeholder.com/600x300?text=Navegación+Entre+Pantallas)  
-*Visualización de las transiciones entre pantallas.*
+
 
 ### 4. **Experiencia de Usuario (UX) Centrada en la Usabilidad** 💡
 Cada aspecto del diseño está centrado en la **usabilidad**. Las interacciones son rápidas y eficientes, con botones de tamaño adecuado y posicionados estratégicamente para facilitar el acceso. Además, se ofrece retroalimentación visual clara cuando se realizan acciones importantes (como enviar formularios o realizar compras).
 
-![UX en acción](https://via.placeholder.com/600x300?text=UX+en+Acción)  
-*Flujo de usuario sencillo y rápido.*
+
 
 ### 5. **Accesibilidad** ♿
 La accesibilidad es una prioridad en este proyecto. Hemos implementado características como:
@@ -37,9 +34,6 @@ La accesibilidad es una prioridad en este proyecto. Hemos implementado caracter�
 - **Compatibilidad con lectores de pantalla**.
 - **Navegación mediante teclado** y accesibilidad para usuarios con movilidad reducida.
 - **Textos alternativos** (alt-text) para imágenes.
-
-![Accesibilidad](https://via.placeholder.com/600x300?text=Accesibilidad)  
-*Detalles sobre las características de accesibilidad.*
 
 ---
 
