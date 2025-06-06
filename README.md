@@ -6,6 +6,49 @@
 
 ![Captura Android Studio - Proyecto](https://github.com/user-attachments/assets/c71f77b5-93aa-451d-aafd-225cbedbd4bb)
 
+markdown
+Copy code
+# 📱 Mi Aplicación de Interfaces de Usuario
+
+Este proyecto consiste en una aplicación móvil con enfoque en el **diseño de interfaces de usuario (UI)** simples, modernas y accesibles. El objetivo principal es ofrecer una experiencia visual agradable y fluida al usuario a través de **tres pantallas clave**.
+
+Inspirado en el repositorio: [KevinJoelZ/Mi-Primera-Aplicacion](https://github.com/KevinJoelZ/Mi-Primera-Aplicacion)
+
+## 🧩 Estructura de la Aplicación
+
+### 1️⃣ Pantalla de Bienvenida
+- 🎞️ **Animación Inicial**: Al abrir la app, se muestra una animación representativa que capta la atención del usuario.
+- 💡 **Objetivo**: Crear una primera impresión atractiva y moderna.
+- 🌈 **Estilo visual**: Uso de colores vivos, elementos en movimiento y una transición suave hacia la siguiente pantalla.
+
+### 2️⃣ Pantalla de Inicio de Sesión
+- 🔐 **Interfaz Intuitiva**: Diseñada para que el usuario pueda iniciar sesión de forma rápida y sin complicaciones.
+- 🧠 **Elementos clave**:
+  - Campos de usuario y contraseña
+  - Botón claro de "Iniciar Sesión"
+  - Enlace para recuperar contraseña
+- 🧭 **Navegación sencilla**: Distribución limpia y accesible en todos los dispositivos.
+
+### 3️⃣ Pantalla de Registro
+- 📝 **Formulario Accesible**: Facilita el registro de nuevos usuarios con una estructura clara.
+- 🔍 **Componentes**:
+  - Campos de nombre, email y contraseña
+  - Indicaciones visuales en caso de errores
+- ♿ **Accesibilidad**: Contrastes adecuados y botones fácilmente clicables.
+
+## 🎨 Principios de Diseño Utilizados
+- **Simplicidad visual**: Interfaces limpias, sin sobrecargar al usuario.
+- **Consistencia**: Uso coherente de colores, fuentes y botones.
+- **Enfoque en el usuario**: Cada pantalla está pensada para ser clara, rápida y fácil de usar.
+
+## 🚀 Tecnologías sugeridas
+- Flutter o React Native para UI multiplataforma
+- Lottie para animaciones
+- Herramientas de diseño como Figma o Adobe XD
+
+---
+
+
 ## 🌟 Características Principales del Diseño
 
 ### 1. **Claridad y Simplicidad en el Diseño** 🧑‍💻
