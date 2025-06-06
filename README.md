@@ -41,14 +41,6 @@ Inspirado en el repositorio: [KevinJoelZ/Mi-Primera-Aplicacion](https://github.c
 - **Consistencia**: Uso coherente de colores, fuentes y botones.
 - **Enfoque en el usuario**: Cada pantalla está pensada para ser clara, rápida y fácil de usar.
 
-## 🚀 Tecnologías sugeridas
-- Flutter o React Native para UI multiplataforma
-- Lottie para animaciones
-- Herramientas de diseño como Figma o Adobe XD
-
----
-
-
 ## 🌟 Características Principales del Diseño
 
 ### 1. **Claridad y Simplicidad en el Diseño** 🧑‍💻
