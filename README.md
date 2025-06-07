@@ -12,8 +12,6 @@ Copy code
 
 Este proyecto consiste en una aplicación móvil con enfoque en el **diseño de interfaces de usuario (UI)** simples, modernas y accesibles. El objetivo principal es ofrecer una experiencia visual agradable y fluida al usuario a través de **tres pantallas clave**.
 
-Inspirado en el repositorio: [KevinJoelZ/Mi-Primera-Aplicacion](https://github.com/KevinJoelZ/Mi-Primera-Aplicacion)
-
 ## 🧩 Estructura de la Aplicación
 
 ### 1️⃣ Pantalla de Bienvenida
