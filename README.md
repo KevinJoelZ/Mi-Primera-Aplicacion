@@ -53,7 +53,7 @@ Este proyecto consiste en una aplicación móvil con enfoque en el **diseño de 
 - ♿ **Accesibilidad**: Contrastes adecuados y botones fácilmente clicables.
 - 
 <p align="center">
-  <img src="images/register_screen.png" alt="Android Studio" width="840" height="660" style="border: 1px solid #ccc; border-radius: 4px;">
+  <img src="images/register_screen.png" alt="Android Studio" width="840" height="660" style="border: 2px solid #ccc; border-radius: 4px;">
 </p>
 
 ## 🎨 Principios de Diseño Utilizados
