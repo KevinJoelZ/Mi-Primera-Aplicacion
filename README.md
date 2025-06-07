@@ -1,9 +1,3 @@
-### Detalles de la Animación
-![Animación de Bienvenida]()
-
-
-### Pantalla de Registro
-![Pantalla de Registro]()
 
 ## Características
 - Pantalla de bienvenida con animaciones
