@@ -34,7 +34,10 @@ Esta es una aplicación de Android que implementa un sistema de inicio de sesió
 
 ---
 
-<img src="images/splash_screen.png" alt="Andorid Studio" width="300" height="300">
+<p align="center">
+  <img src="images/splash_screen_with_shadow.png" alt="Android Studio" width="300" height="300">
+</p>
+
 
 markdown
 Copy code
