@@ -4,7 +4,7 @@
 
 ---
 
-<img src="C:\Users\Usuario\Pictures\TECNOLOGÍA Y  COMPUTACIÓN\Captura Android Studio - Proyecto.jpg" alt="Descripción de la imagen" width="300" height="200">
+<img src="C:\Users\Usuario\Pictures\TECNOLOGÍA Y  COMPUTACIÓN\Captura Android Studio - Proyecto.jpg" alt="Andorid Studio" width="300" height="200">
 
 markdown
 Copy code
