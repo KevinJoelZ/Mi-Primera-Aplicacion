@@ -34,7 +34,7 @@ Esta es una aplicación de Android que implementa un sistema de inicio de sesió
 
 ---
 
-<img src="C:\Users\Usuario\Pictures\TECNOLOGÍA Y  COMPUTACIÓN\Captura Android Studio - Proyecto.jpg" alt="Andorid Studio" width="100" height="100">
+<img src="images/splash_screen.png" alt="Andorid Studio" width="100" height="100">
 
 markdown
 Copy code
