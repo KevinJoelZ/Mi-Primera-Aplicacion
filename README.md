@@ -4,7 +4,8 @@
 
 ---
 
-<img> (https://github.com/user-attachments/assets/c71f77b5-93aa-451d-aafd-225cbedbd4bb )  width="200" height="50%"
+<img src="![Captura Android Studio - Proyecto](https://github.com/user-attachments/assets/c87d8fe9-1822-48cc-8556-7b455716eb78)
+" alt="Descripción de la imagen" width="300" height="200">
 
 markdown
 Copy code
