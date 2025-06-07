@@ -6,6 +6,21 @@
 
 
 
+# Mi Primera Aplicación Android
+
+<img src="images/splash_screen.png" alt="Logo de la App" width="100" height="100">
+
+Esta es una aplicación de Android que implementa un sistema de inicio de sesión y registro de usuarios con una pantalla de bienvenida animada.
+
+## 📥 Descarga la Aplicación
+Puedes descargar la última versión de la aplicación aquí:
+[⬇️ Descargar APK](releases/MiPrimeraAplicacion.apk)
+
+**Requisitos de instalación:**
+- Android 6.0 o superior
+- Permitir la instalación de aplicaciones de orígenes desconocidos
+- Versión actual: 1.0.0
+
 # Mi Primera Aplicación 📱🎉
 
 ¡Bienvenido a **Mi Primera Aplicación**! Este proyecto está diseñado con un enfoque especial en la **experiencia de usuario (UX)**, asegurando que la interfaz sea **clara, accesible y fácil de usar**. A continuación, te mostraré cómo se aplicaron principios clave en el diseño de la interfaz, con un énfasis particular en la **usabilidad** y la **accesibilidad**.
