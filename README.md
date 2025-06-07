@@ -86,8 +86,14 @@ La accesibilidad es una prioridad en este proyecto. Hemos implementado caracter�
 ## 📱 Diseño Responsivo
 
 La aplicación está diseñada para ser **responsiva**, adaptándose perfectamente a dispositivos móviles, tabletas y escritorios. Las pantallas se ajustan para ofrecer una experiencia óptima sin importar el tamaño de la pantalla.
-
 ---
+
+## Tecnologías Utilizadas
+- Kotlin
+- Android Studio
+- XML para layouts
+- Animaciones nativas de Android
+  
 ## 🤝 Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar el diseño, la funcionalidad o la accesibilidad, no dudes en hacer un **fork** del repositorio y enviar un **pull request**.
