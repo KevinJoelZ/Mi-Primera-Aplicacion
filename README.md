@@ -1,12 +1,3 @@
-# Mi Primera Aplicación Android
-
-Esta es una aplicación de Android que implementa un sistema de inicio de sesión y registro de usuarios con una pantalla de bienvenida animada.
-
-## Pantallas de la Aplicación
-
-### Pantalla de Bienvenida
-![Pantalla de Bienvenida](images/splash_screen.png)
-
 ### Detalles de la Animación
 ![Animación de Bienvenida](images/splash_animation.png)
 
