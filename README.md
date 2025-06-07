@@ -34,14 +34,8 @@ Esta es una aplicación de Android que implementa un sistema de inicio de sesió
 
 ---
 
-<p align="center">
-  <img src="images/splash_screen.png" alt="Android Studio" width="670" height="430">
-</p>
 
 
-
-markdown
-Copy code
 # 📱 Mi Aplicación de Interfaces de Usuario
 
 Este proyecto consiste en una aplicación móvil con enfoque en el **diseño de interfaces de usuario (UI)** simples, modernas y accesibles. El objetivo principal es ofrecer una experiencia visual agradable y fluida al usuario a través de **tres pantallas clave**.
@@ -60,6 +54,10 @@ Este proyecto consiste en una aplicación móvil con enfoque en el **diseño de 
   - Botón claro de "Iniciar Sesión"
   - Enlace para recuperar contraseña
 - 🧭 **Navegación sencilla**: Distribución limpia y accesible en todos los dispositivos.
+
+<p align="center">
+  <img src="images/splash_screen.png" alt="Android Studio" width="670" height="470">
+</p>
 
 ### 3️⃣ Pantalla de Registro
 - 📝 **Formulario Accesible**: Facilita el registro de nuevos usuarios con una estructura clara.
