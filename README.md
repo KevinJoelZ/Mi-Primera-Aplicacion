@@ -41,8 +41,9 @@ Este proyecto consiste en una aplicación móvil con enfoque en el **diseño de 
 - 🧭 **Navegación sencilla**: Distribución limpia y accesible en todos los dispositivos.
 
 <p align="center">
-  <img src="images/splash_screen.png" alt="Android Studio" width="840" height="680">
+  <img src="images/splash_screen.png" alt="Android Studio" width="840" height="660" style="border: 1px solid #ccc; border-radius: 4px;">
 </p>
+
 
 ### 3️⃣ Pantalla de Registro
 - 📝 **Formulario Accesible**: Facilita el registro de nuevos usuarios con una estructura clara.
