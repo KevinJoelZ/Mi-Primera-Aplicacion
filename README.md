@@ -56,7 +56,7 @@ Este proyecto consiste en una aplicación móvil con enfoque en el **diseño de 
 - 🧭 **Navegación sencilla**: Distribución limpia y accesible en todos los dispositivos.
 
 <p align="center">
-  <img src="images/splash_screen.png" alt="Android Studio" width="670" height="470">
+  <img src="images/splash_screen.png" alt="Android Studio" width="650" height="500">
 </p>
 
 ### 3️⃣ Pantalla de Registro
