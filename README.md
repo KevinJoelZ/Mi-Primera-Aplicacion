@@ -3,7 +3,7 @@
 
 
 ### Pantalla de Registro
-![Pantalla de Registro](images/register_screen.png)
+![Pantalla de Registro]()
 
 ## Características
 - Pantalla de bienvenida con animaciones
@@ -51,6 +51,10 @@ Este proyecto consiste en una aplicación móvil con enfoque en el **diseño de 
   - Campos de nombre, email y contraseña
   - Indicaciones visuales en caso de errores
 - ♿ **Accesibilidad**: Contrastes adecuados y botones fácilmente clicables.
+- 
+<p align="center">
+  <img src="images/register_screen.png" alt="Android Studio" width="840" height="660" style="border: 1px solid #ccc; border-radius: 4px;">
+</p>
 
 ## 🎨 Principios de Diseño Utilizados
 - **Simplicidad visual**: Interfaces limpias, sin sobrecargar al usuario.
