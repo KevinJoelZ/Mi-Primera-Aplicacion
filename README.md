@@ -1,25 +1,13 @@
-# Mi Primera Aplicación Android
 
-<img src="images/splash_screen.png" alt="Logo de la App" width="100" height="100">
-
-Esta es una aplicación de Android que implementa un sistema de inicio de sesión y registro de usuarios con una pantalla de bienvenida animada.
 
 ## Vista del Proyecto en Android Studio
-![Vista del Proyecto](images/app_project.jpg)
+![Vista del Proyecto]()
 
-## Pantallas de la Aplicación
 
-### Pantalla de Bienvenida
-![Pantalla de Bienvenida](images/splash_screen.png)
 
-### Detalles de la Animación
-![Animación de Bienvenida](images/splash_animation.png)
 
-### Pantalla de Inicio de Sesión
-![Pantalla de Login](images/login_screen.png)
 
-### Pantalla de Registro
-![Pantalla de Registro](images/register_screen.png)
+
 
 ## Características
 - Pantalla de bienvenida con animaciones
@@ -27,15 +15,15 @@ Esta es una aplicación de Android que implementa un sistema de inicio de sesió
 - Registro de nuevos usuarios
 - Interfaz moderna y amigable
 
-## Tecnologías Utilizadas
-- Kotlin
-- Android Studio
-- XML para layouts
-- Animaciones nativas de Android
+
 
 # Mi Primera Aplicación 📱🎉
 
 ¡Bienvenido a **Mi Primera Aplicación**! Este proyecto está diseñado con un enfoque especial en la **experiencia de usuario (UX)**, asegurando que la interfaz sea **clara, accesible y fácil de usar**. A continuación, te mostraré cómo se aplicaron principios clave en el diseño de la interfaz, con un énfasis particular en la **usabilidad** y la **accesibilidad**.
+
+<p align="center">
+  <img src="images/app_project.jpg" alt="Android Studio" width="840" height="660" style="border: 1px solid #ccc; border-radius: 4px;">
+</p>
 
 ---
 
