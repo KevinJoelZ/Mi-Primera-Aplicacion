@@ -1,5 +1,5 @@
 ### Detalles de la Animación
-![Animación de Bienvenida](images/splash_animation.png)
+![Animación de Bienvenida]()
 
 
 ### Pantalla de Registro
@@ -31,6 +31,10 @@ Este proyecto consiste en una aplicación móvil con enfoque en el **diseño de 
 - 🎞️ **Animación Inicial**: Al abrir la app, se muestra una animación representativa que capta la atención del usuario.
 - 💡 **Objetivo**: Crear una primera impresión atractiva y moderna.
 - 🌈 **Estilo visual**: Uso de colores vivos, elementos en movimiento y una transición suave hacia la siguiente pantalla.
+
+<p align="center">
+  <img src="images/splash_animation.png" alt="Android Studio" width="840" height="660" style="border: 2px solid #ccc; border-radius: 4px;">
+</p>
 
 ### 2️⃣ Pantalla de Inicio de Sesión
 - 🔐 **Interfaz Intuitiva**: Diseñada para que el usuario pueda iniciar sesión de forma rápida y sin complicaciones.
