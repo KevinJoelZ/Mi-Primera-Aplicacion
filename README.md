@@ -1,8 +1,6 @@
 ### Detalles de la Animación
 ![Animación de Bienvenida](images/splash_animation.png)
 
-### Pantalla de Inicio de Sesión
-![Pantalla de Login](images/login_screen.png)
 
 ### Pantalla de Registro
 ![Pantalla de Registro](images/register_screen.png)
@@ -13,11 +11,7 @@
 - Registro de nuevos usuarios
 - Interfaz moderna y amigable
 
-## Tecnologías Utilizadas
-- Kotlin
-- Android Studio
-- XML para layouts
-- Animaciones nativas de Android
+
 
 # Mi Primera Aplicación 📱🎉
 
@@ -98,7 +92,11 @@ La accesibilidad es una prioridad en este proyecto. Hemos implementado caracter�
 La aplicación está diseñada para ser **responsiva**, adaptándose perfectamente a dispositivos móviles, tabletas y escritorios. Las pantallas se ajustan para ofrecer una experiencia óptima sin importar el tamaño de la pantalla.
 
 ---
-
+## Tecnologías Utilizadas
+- Kotlin
+- Android Studio
+- XML para layouts
+- Animaciones nativas de Android
 ## 🤝 Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar el diseño, la funcionalidad o la accesibilidad, no dudes en hacer un **fork** del repositorio y enviar un **pull request**.
