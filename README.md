@@ -36,7 +36,7 @@ Este proyecto consiste en una aplicación móvil con enfoque en el **diseño de 
 - 🌈 **Estilo visual**: Uso de colores vivos, elementos en movimiento y una transición suave hacia la siguiente pantalla.
 
 <p align="center">
-  <img src="images/splash_animation.png" alt="Android Studio" width="940" height="660" style="border: 2px solid #ccc; border-radius: 4px;">
+  <img src="C:\Users\Usuario\Pictures\Saved Pictures\p1 (2).jpg" alt="Android Studio" width="940" height="660" style="border: 2px solid #ccc; border-radius: 4px;">
 </p>
 
 ### 2️⃣ Pantalla de Inicio de Sesión
