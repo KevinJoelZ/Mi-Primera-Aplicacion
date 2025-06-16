@@ -16,7 +16,7 @@ Puedes descargar la última versión de la aplicación aquí:
 # Mi Primera Aplicación 📱🎉
 
 <p align="center">
-  <img src="images/p1.jpg" alt="Mi Primera Aplicación" width="940" height="660" style="border: 1px solid #ccc; border-radius: 4px;">
+  <img src="images/splash_animation.png" alt="Animación de Bienvenida" width="940" height="660" style="border: 1px solid #ccc; border-radius: 4px;">
 </p>
 
 ¡Bienvenido a **Mi Primera Aplicación**! Este proyecto está diseñado con un enfoque especial en la **experiencia de usuario (UX)**, asegurando que la interfaz sea **clara, accesible y fácil de usar**. A continuación, te mostraré cómo se aplicaron principios clave en el diseño de la interfaz, con un énfasis particular en la **usabilidad** y la **accesibilidad**.
