@@ -4,14 +4,6 @@
 - Registro de nuevos usuarios
 - Interfaz moderna y amigable
 
-
-
-# Mi Primera Aplicación Android
-
-<img src="images/splash_screen.png" alt="Logo de la App" width="100" height="100">
-
-Esta es una aplicación de Android que implementa un sistema de inicio de sesión y registro de usuarios con una pantalla de bienvenida animada.
-
 ## 📥 Descarga la Aplicación
 Puedes descargar la última versión de la aplicación aquí:
 [⬇️ Descargar APK](releases/MiPrimeraAplicacion.apk)
