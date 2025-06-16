@@ -18,7 +18,8 @@ Puedes descargar la última versión de la aplicación aquí:
 ¡Bienvenido a **Mi Primera Aplicación**! Este proyecto está diseñado con un enfoque especial en la **experiencia de usuario (UX)**, asegurando que la interfaz sea **clara, accesible y fácil de usar**. A continuación, te mostraré cómo se aplicaron principios clave en el diseño de la interfaz, con un énfasis particular en la **usabilidad** y la **accesibilidad**.
 
 <p align="center">
-  <img src="images/app_project.jpg" alt="Android Studio" width="940" height="660" style="border: 1px solid #ccc; border-radius: 4px;">
+  <img src="C:\Users\Usuario\Pictures\Saved Pictures\p1 (2).jpg
+" alt="Android Studio" width="940" height="660" style="border: 1px solid #ccc; border-radius: 4px;">
 </p>
 
 ---
@@ -35,7 +36,7 @@ Este proyecto consiste en una aplicación móvil con enfoque en el **diseño de 
 - 🌈 **Estilo visual**: Uso de colores vivos, elementos en movimiento y una transición suave hacia la siguiente pantalla.
 
 <p align="center">
-  <img src="images/splash_animation.png" alt="Android Studio" width="940" height="660" style="border: 2px solid #ccc; border-radius: 4px;">
+  <img src="C:\Users\Usuario\Pictures\Saved Pictures\p1 (2).jpg" alt="Android Studio" width="940" height="660" style="border: 2px solid #ccc; border-radius: 4px;">
 </p>
 
 ### 2️⃣ Pantalla de Inicio de Sesión
