@@ -1,0 +1,14 @@
+kotlin version: 2.0.21
+error message: The daemon has terminated unexpectedly on startup attempt #1 with error code: 1. The daemon process output:
+    ... (20 more lines)
+    21. Loader jdk.internal.loader.ClassLoaders$AppClassLoader                                 : 1908K
+    22. Loader jdk.internal.loader.ClassLoaders$PlatformClassLoader                            : 42192B
+    23. 
+    24. # An error report file with more information is saved as:
+    25. # C:\Users\Usuario\AppData\Local\kotlin\daemon\hs_err_pid10856.log
+    26. [0.586s][warning][os] Loading hsdis library failed
+    27. #
+    28. # If you would like to submit a bug report, please visit:
+    29. #   https://youtrack.jetbrains.com/issues/JBR
+    30. #
+
