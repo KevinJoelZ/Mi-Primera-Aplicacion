@@ -18,7 +18,8 @@ Puedes descargar la última versión de la aplicación aquí:
 ¡Bienvenido a **Mi Primera Aplicación**! Este proyecto está diseñado con un enfoque especial en la **experiencia de usuario (UX)**, asegurando que la interfaz sea **clara, accesible y fácil de usar**. A continuación, te mostraré cómo se aplicaron principios clave en el diseño de la interfaz, con un énfasis particular en la **usabilidad** y la **accesibilidad**.
 
 <p align="center">
-  <img src="images/app_project.jpg" alt="Android Studio" width="940" height="660" style="border: 1px solid #ccc; border-radius: 4px;">
+  <img src="![image](https://github.com/user-attachments/assets/7ab53ca6-df92-49fd-9123-4529c3f6dfa9)
+" alt="Android Studio" width="940" height="660" style="border: 1px solid #ccc; border-radius: 4px;">
 </p>
 
 ---
